@@ -1,0 +1,17 @@
+input{
+    margin-top: 85px;
+    margin-left: 475px;
+    height: 35px;
+border: 2px solid black;
+}
+
+button{
+    cursor: pointer;
+    height: 35px;
+    width: 55px;
+ 
+border: 2px solid black;
+}
+h1{
+    text-align: center;
+}
